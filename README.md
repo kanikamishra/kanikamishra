@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kanikamishra
 - 👀 I’m interested in Blockchain Tech, writing Solidity smart contracts and anything Web3
-- 🌱 I’m currently learning Cairo language
-- 💞️ I’m looking to collaborate on Web3 projects
-- 📫 How to reach me - Email: kanikamishra15@gmail.com, Twitter: @mishrakanika3
+- 🌱 I’m currently working with Powerloom Inc.
+- 📫 How to reach me - Twitter: @mishrakanika3
 
 <!---
 kanikamishra/kanikamishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
