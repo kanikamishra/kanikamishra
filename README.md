@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanikamishra
-- 👀 I’m interested in Blockchain Tech, writing Solidity smart contracts and anything Web3
+- 👀 I’m interested in Blockchain Tech, AI and Web3
 - 📫 How to reach me - Twitter: @mishrakanika3
 
 <!---
